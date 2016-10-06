@@ -1,0 +1,5 @@
+[INFO] 21:12:1475777546 06:10:2016 - new message[INFO] 21:12:1475777550 06:10:2016 - new message[INFO] 21:13:21 06.10.2016 - new message
+[INFO] 21:13:22 06.10.2016 - new message
+[INFO] 21:13:22 06.10.2016 - new message
+[INFO] 21:13:23 06.10.2016 - new message
+[INFO] 21:13:24 06.10.2016 - new message
