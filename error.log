@@ -1,0 +1,8 @@
+# Logfile created on 2016-10-07 20:37:58 +0300 by logger.rb/53141
+E, [2016-10-07T20:37:58.210064 #2897] ERROR -- : Ошибка - отсутствует ключ опции fetch.rb:12:in `block in setup'fetch.rb:12:in `fetch'fetch.rb:12:in `setup'fetch.rb:7:in `initialize'fetch.rb:26:in `new'fetch.rb:26:in `<main>'
+
+E, [2016-10-07T20:39:31.281610 #2936] ERROR -- : Ошибка - отсутствует ключ опции fetch.rb:12:in `block in setup'\nfetch.rb:12:in `fetch'\nfetch.rb:12:in `setup'\nfetch.rb:7:in `initialize'\nfetch.rb:24:in `new'\nfetch.rb:24:in `<main>'
+E, [2016-10-07T20:40:25.229133 #2943] ERROR -- : Ошибка - отсутствует ключ опции fetch.rb:12:in `block in setup'\nfetch.rb:12:in `fetch'\nfetch.rb:12:in `setup'\nfetch.rb:7:in `initialize'\nfetch.rb:25:in `new'\nfetch.rb:25:in `<main>'
+E, [2016-10-07T20:40:27.642699 #2947] ERROR -- : Ошибка - отсутствует ключ опции fetch.rb:12:in `block in setup'\nfetch.rb:12:in `fetch'\nfetch.rb:12:in `setup'\nfetch.rb:7:in `initialize'\nfetch.rb:25:in `new'\nfetch.rb:25:in `<main>'
+E, [2016-10-07T20:42:10.685469 #2989] ERROR -- : Ошибка - отсутствует ключ опции fetch.rb:14:in `block in setup'\nfetch.rb:14:in `fetch'\nfetch.rb:14:in `setup'\nfetch.rb:9:in `initialize'\nfetch.rb:27:in `new'\nfetch.rb:27:in `<main>'
+E, [2016-10-07T20:43:10.286418 #2994] ERROR -- : Ошибка - отсутствует ключ опции fetch.rb:14:in `block in setup'\nfetch.rb:14:in `fetch'\nfetch.rb:14:in `setup'\nfetch.rb:9:in `initialize'\nfetch.rb:27:in `new'\nfetch.rb:27:in `<main>'
